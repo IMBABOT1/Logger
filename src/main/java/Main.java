@@ -12,5 +12,6 @@ public class Main {
         LOGGER.error("Error");
         LOGGER.fatal("Fatal");
         LOGGER.info("INFO");
+        1
     }
 }
